@@ -1,2 +1,2 @@
 # PizzaAssignment
-Online Food Ordering System.
+Online Pizza Ordering System.
